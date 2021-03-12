@@ -123,7 +123,7 @@
                     <a href="https://www.imdb.com/name/nm1242688/bio" target="_blank" class="btn btn-primary">Learn More</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="img/JoshHutcherson.png" class="img-fluid" />
+                    <img src="img/JoshHutcherson.png" class="img-fluid"/>
                 </div>
             </div>
         </div>
